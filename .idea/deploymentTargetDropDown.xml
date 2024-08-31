@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AmountInputTest">
+        <State />
+      </entry>
+      <entry key="AmountTextFieldTest">
+        <State />
+      </entry>
+      <entry key="CurrencySelectionTest">
+        <State />
+      </entry>
+      <entry key="Tests in 'com.sample.exchange.feature.currencyexchange.presentation.view'">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="testAmountInput()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
